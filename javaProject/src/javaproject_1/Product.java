@@ -1,4 +1,4 @@
-package javaProject1;
+package javaproject_1;
 
 public class Product {
 	private int pid;
